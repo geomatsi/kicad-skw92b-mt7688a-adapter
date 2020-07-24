@@ -19,7 +19,7 @@ U 1 1 5F20D6E7
 P 7550 3155
 F 0 "J2" H 7930 3315 50  0000 L CNN
 F 1 "Conn_01x24" H 7780 3145 50  0000 L CNN
-F 2 "" H 7550 3155 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x24_P2.54mm_Vertical" H 7550 3155 50  0001 C CNN
 F 3 "~" H 7550 3155 50  0001 C CNN
 	1    7550 3155
 	1    0    0    -1  
@@ -30,7 +30,7 @@ U 1 1 5F210E6E
 P 3450 3250
 F 0 "J1" H 3855 2950 50  0000 C CNN
 F 1 "Conn_01x24" H 3815 3145 50  0000 C CNN
-F 2 "" H 3450 3250 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x24_P2.54mm_Vertical" H 3450 3250 50  0001 C CNN
 F 3 "~" H 3450 3250 50  0001 C CNN
 	1    3450 3250
 	-1   0    0    1   
@@ -296,7 +296,7 @@ L skylab-skw92b:skw92b U1
 U 1 1 5F2092FD
 P 5544 3050
 F 0 "U1" H 5519 3765 50  0000 C CNN
-F 1 "skw92b" H 5519 3674 47  0000 C CNN
+F 1 "skw92b" H 5514 3502 47  0000 C CNN
 F 2 "" H 5544 3050 50  0001 C CNN
 F 3 "http://www.skylab.com.cn/uploadfile/Download/SkyLab_SKW92B_V1.06_datasheet.pdf" H 5544 3050 50  0001 C CNN
 	1    5544 3050
