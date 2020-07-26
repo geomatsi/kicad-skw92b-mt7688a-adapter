@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 4)
+    (drawings 5)
     (tracks 136)
     (zones 0)
     (modules 3)
@@ -482,6 +482,9 @@
     )
   )
 
+  (gr_text "SKW92B MT7688A\n" (at 149.975 136) (layer F.SilkS)
+    (effects (font (size 2 2) (thickness 0.15)))
+  )
   (gr_line (start 129 139) (end 129 72.525) (layer Edge.Cuts) (width 0.2) (tstamp 5F1BD053))
   (gr_line (start 171 139.125) (end 129 139) (layer Edge.Cuts) (width 0.2))
   (gr_line (start 171 72.575) (end 171 139.125) (layer Edge.Cuts) (width 0.2))
